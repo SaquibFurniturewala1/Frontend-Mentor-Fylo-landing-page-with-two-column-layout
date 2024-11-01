@@ -11,7 +11,7 @@ Hover States: All interactive components, such as buttons and links, should prov
 
 ### Screenshot
 
-![](images/screenshot1.jpg)
+![](/images/screenshot1.jpg)
 ![](images/screenshot2.jpg)
 ![](images/screenshot3.jpg)
 
